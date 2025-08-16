@@ -9,12 +9,12 @@ La aplicación expone endpoints que consumen la API pública de [Chuck Norris](h
 `pip
 
 
-## 🚀 Instalación y ejecución local
+### 🚀 Instalación y ejecución local
 
 Sigue estos pasos para ejecutar el proyecto en tu local :)
 
 
-# 1️⃣ Clonar el repositorio
+## 1️⃣ Clonar el repositorio
 ```bash
 git clone https://github.com/Gelinek/backend-challenge-jr.git
 
@@ -58,4 +58,8 @@ http://127.0.0.1:5000/search?query=pizza
 http://127.0.0.1:5000/search?query=examen
 http://127.0.0.1:5000/search?query={cambia este parametro a lo que buscas :)}
 
-Nota: Gracias por darme la oportunidad espero poder trabajar con ustedes.
+---
+
+💡 **Nota:** Gracias por darme la oportunidad, espero poder trabajar con ustedes.
+
+---
